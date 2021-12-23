@@ -7,7 +7,7 @@ Generated with `@vue/cli@next` which support PostCSS 8 (which is required by Tai
 No Vite required! 🥳
 You can keep using the Vue CLI you know!
 
-Note: This repo includes Tauri for running the project as a desktop app. It's probably unnecessary for you.
+> Note: This repo includes Tauri for running the project as a desktop app. It's probably unnecessary for you.
 
 ## Making the same from scratch
 

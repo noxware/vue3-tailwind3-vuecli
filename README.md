@@ -14,3 +14,5 @@ You can keep using the Vue CLI you know!
 Just uninstall your global `@vue/cli` and run `npm install -g @vue/cli@next` to install the beta version.
 Then generate a **Vue 3** project as you like.
 Then follow the [Tailwind 3 installation guide using PostCSS](https://tailwindcss.com/docs/installation/using-postcss). Don't forget to include your `*.vue` files in `tailwind.config.js`.
+
+Tauri can be added following its [instructions](https://github.com/tauri-apps/vue-cli-plugin-tauri) as always.
